@@ -1,2 +1,6 @@
-<h1>COLOQUE A SUA CONTRIBUIÇÃO: </h1>
+function meuNome(x){
+    console.log(x); 
+}
 
+
+meuNome("Nikson");
